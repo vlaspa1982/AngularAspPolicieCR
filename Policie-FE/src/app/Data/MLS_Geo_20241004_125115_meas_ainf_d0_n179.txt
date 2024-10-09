@@ -1,0 +1,4300 @@
+{
+    "items": [
+        {
+            "timestamp": 1728038155236,
+            "position": {
+                "latitude": 49.6623322,
+                "longitude": 18.2857733,
+                "accuracy": 3.8,
+                "altitude": 383.8,
+                "heading": 70.00999450683594,
+                "speed": 16.875,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038160234,
+            "position": {
+                "latitude": 49.6625394,
+                "longitude": 18.2868764,
+                "accuracy": 3.8,
+                "altitude": 382.9,
+                "heading": 69.99966430664062,
+                "speed": 16.63,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038165235,
+            "position": {
+                "latitude": 49.6627539,
+                "longitude": 18.2879363,
+                "accuracy": 3.8,
+                "altitude": 380.9,
+                "heading": 70.00931549072266,
+                "speed": 15.395,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038174235,
+            "position": {
+                "latitude": 49.6631053,
+                "longitude": 18.2896778,
+                "accuracy": 3.8,
+                "altitude": 378.3,
+                "heading": 72.00184631347656,
+                "speed": 14.062,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038179235,
+            "position": {
+                "latitude": 49.6632913,
+                "longitude": 18.2905945,
+                "accuracy": 3.8,
+                "altitude": 376.7,
+                "heading": 71.99405670166016,
+                "speed": 13.797,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038184235,
+            "position": {
+                "latitude": 49.6634851,
+                "longitude": 18.2915141,
+                "accuracy": 3.8,
+                "altitude": 374.8,
+                "heading": 62.08153533935547,
+                "speed": 13.932,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -101
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038189234,
+            "position": {
+                "latitude": 49.6636753,
+                "longitude": 18.2924203,
+                "accuracy": 3.8,
+                "altitude": 374.2,
+                "heading": 72.00069427490234,
+                "speed": 13.5,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038194235,
+            "position": {
+                "latitude": 49.6638601,
+                "longitude": 18.2933191,
+                "accuracy": 3.8,
+                "altitude": 373,
+                "heading": 72.00031280517578,
+                "speed": 13.38,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038199234,
+            "position": {
+                "latitude": 49.6640423,
+                "longitude": 18.2942135,
+                "accuracy": 3.8,
+                "altitude": 371.4,
+                "heading": 71.99737548828125,
+                "speed": 13.598,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038204234,
+            "position": {
+                "latitude": 49.6642232,
+                "longitude": 18.295151,
+                "accuracy": 3.8,
+                "altitude": 369.4,
+                "heading": 72.99542999267578,
+                "speed": 14.466,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038209234,
+            "position": {
+                "latitude": 49.6644196,
+                "longitude": 18.2961494,
+                "accuracy": 3.8,
+                "altitude": 368.4,
+                "heading": 72.0003433227539,
+                "speed": 15.28,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038214234,
+            "position": {
+                "latitude": 49.6646131,
+                "longitude": 18.2971522,
+                "accuracy": 3.8,
+                "altitude": 367.5,
+                "heading": 72.99856567382812,
+                "speed": 15.209,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038219235,
+            "position": {
+                "latitude": 49.6648099,
+                "longitude": 18.2981689,
+                "accuracy": 3.8,
+                "altitude": 366.3,
+                "heading": 73.00086975097656,
+                "speed": 15.091,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038224234,
+            "position": {
+                "latitude": 49.6649982,
+                "longitude": 18.2991717,
+                "accuracy": 3.8,
+                "altitude": 365.2,
+                "heading": 72.99834442138672,
+                "speed": 15.188,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038229235,
+            "position": {
+                "latitude": 49.665215,
+                "longitude": 18.3002389,
+                "accuracy": 3.8,
+                "altitude": 364.4,
+                "heading": 70.99725341796875,
+                "speed": 17.075,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038234232,
+            "position": {
+                "latitude": 49.6654596,
+                "longitude": 18.3014398,
+                "accuracy": 3.8,
+                "altitude": 363.5,
+                "heading": 71.99700927734375,
+                "speed": 18.817,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038239233,
+            "position": {
+                "latitude": 49.6657165,
+                "longitude": 18.302734,
+                "accuracy": 3.8,
+                "altitude": 363.4,
+                "heading": 72.99812316894531,
+                "speed": 19.958,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897418,
+                    "primaryScramblingCode": 155,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038244233,
+            "position": {
+                "latitude": 49.6659856,
+                "longitude": 18.3040556,
+                "accuracy": 3.8,
+                "altitude": 363.1,
+                "heading": 72.99778747558594,
+                "speed": 19.939,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038254233,
+            "position": {
+                "latitude": 49.6665052,
+                "longitude": 18.3066499,
+                "accuracy": 3.8,
+                "altitude": 363.8,
+                "heading": 71.00357055664062,
+                "speed": 19.312,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038259233,
+            "position": {
+                "latitude": 49.6667541,
+                "longitude": 18.3079138,
+                "accuracy": 3.8,
+                "altitude": 363.7,
+                "heading": 74.00044250488281,
+                "speed": 18.931,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038264233,
+            "position": {
+                "latitude": 49.6669969,
+                "longitude": 18.3091563,
+                "accuracy": 3.8,
+                "altitude": 363.8,
+                "heading": 72.0010757446289,
+                "speed": 18.551,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -98
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038269233,
+            "position": {
+                "latitude": 49.6672486,
+                "longitude": 18.3103708,
+                "accuracy": 3.8,
+                "altitude": 363.3,
+                "heading": 71.0002212524414,
+                "speed": 18.25,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038274234,
+            "position": {
+                "latitude": 49.6675035,
+                "longitude": 18.3115612,
+                "accuracy": 3.8,
+                "altitude": 362.5,
+                "heading": 71.00286865234375,
+                "speed": 18.121,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038279233,
+            "position": {
+                "latitude": 49.667776,
+                "longitude": 18.3127502,
+                "accuracy": 3.8,
+                "altitude": 362.2,
+                "heading": 70.00055694580078,
+                "speed": 18.071,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233897417,
+                    "primaryScramblingCode": 342,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038284232,
+            "position": {
+                "latitude": 49.6680468,
+                "longitude": 18.3139094,
+                "accuracy": 3.8,
+                "altitude": 361.2,
+                "heading": 70.00199890136719,
+                "speed": 17.292,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038289232,
+            "position": {
+                "latitude": 49.6683203,
+                "longitude": 18.3150242,
+                "accuracy": 3.8,
+                "altitude": 359.1,
+                "heading": 68.00029754638672,
+                "speed": 16.9,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038294232,
+            "position": {
+                "latitude": 49.6686035,
+                "longitude": 18.3161197,
+                "accuracy": 3.8,
+                "altitude": 356.2,
+                "heading": 67.99994659423828,
+                "speed": 17.12,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038299232,
+            "position": {
+                "latitude": 49.6688781,
+                "longitude": 18.3172006,
+                "accuracy": 3.8,
+                "altitude": 353,
+                "heading": 68.00165557861328,
+                "speed": 16.772,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038304232,
+            "position": {
+                "latitude": 49.6691548,
+                "longitude": 18.318244,
+                "accuracy": 3.8,
+                "altitude": 350.8,
+                "heading": 67.99768829345703,
+                "speed": 15.98,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038309232,
+            "position": {
+                "latitude": 49.6694184,
+                "longitude": 18.3192646,
+                "accuracy": 3.8,
+                "altitude": 347.6,
+                "heading": 69.99776458740234,
+                "speed": 15.72,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038314232,
+            "position": {
+                "latitude": 49.6696354,
+                "longitude": 18.320267,
+                "accuracy": 3.8,
+                "altitude": 345.5,
+                "heading": 71.0008773803711,
+                "speed": 15.121,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038319232,
+            "position": {
+                "latitude": 49.6698285,
+                "longitude": 18.3212322,
+                "accuracy": 3.8,
+                "altitude": 344.2,
+                "heading": 72.00216674804688,
+                "speed": 14.482,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038324232,
+            "position": {
+                "latitude": 49.6700127,
+                "longitude": 18.322148,
+                "accuracy": 3.8,
+                "altitude": 343,
+                "heading": 72.99923706054688,
+                "speed": 13.571,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038329232,
+            "position": {
+                "latitude": 49.670179,
+                "longitude": 18.3230693,
+                "accuracy": 3.8,
+                "altitude": 340.6,
+                "heading": 75.99329376220703,
+                "speed": 14.294,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038334233,
+            "position": {
+                "latitude": 49.6702805,
+                "longitude": 18.3238318,
+                "accuracy": 3.8,
+                "altitude": 339.6,
+                "heading": 77.02485656738281,
+                "speed": 8.186,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038339232,
+            "position": {
+                "latitude": 49.6703685,
+                "longitude": 18.3244067,
+                "accuracy": 3.8,
+                "altitude": 340.6,
+                "heading": 77.98992156982422,
+                "speed": 9.513,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233357258,
+                    "primaryScramblingCode": 163,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038344232,
+            "position": {
+                "latitude": 49.6704472,
+                "longitude": 18.3250863,
+                "accuracy": 3.8,
+                "altitude": 340.3,
+                "heading": 82.99829864501953,
+                "speed": 10.068,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038349231,
+            "position": {
+                "latitude": 49.6705128,
+                "longitude": 18.3258268,
+                "accuracy": 3.8,
+                "altitude": 339.5,
+                "heading": 79.99835968017578,
+                "speed": 11.027,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -98
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038354231,
+            "position": {
+                "latitude": 49.6706068,
+                "longitude": 18.3266438,
+                "accuracy": 3.8,
+                "altitude": 339.7,
+                "heading": 77.99234008789062,
+                "speed": 13.051,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -84
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038359231,
+            "position": {
+                "latitude": 49.6706995,
+                "longitude": 18.327613,
+                "accuracy": 3.8,
+                "altitude": 339.9,
+                "heading": 82.99856567382812,
+                "speed": 14.397,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -89
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038364230,
+            "position": {
+                "latitude": 49.6707704,
+                "longitude": 18.3286331,
+                "accuracy": 3.8,
+                "altitude": 340.2,
+                "heading": 83.99993896484375,
+                "speed": 14.83,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -89
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038369231,
+            "position": {
+                "latitude": 49.6708213,
+                "longitude": 18.3296564,
+                "accuracy": 3.8,
+                "altitude": 340.3,
+                "heading": 86.00017547607422,
+                "speed": 14.89,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -89
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038374231,
+            "position": {
+                "latitude": 49.6708807,
+                "longitude": 18.3306732,
+                "accuracy": 3.8,
+                "altitude": 340.3,
+                "heading": 84.0017318725586,
+                "speed": 14.394,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -87
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038379230,
+            "position": {
+                "latitude": 49.6709544,
+                "longitude": 18.3316572,
+                "accuracy": 3.8,
+                "altitude": 340.1,
+                "heading": 81.99748229980469,
+                "speed": 14.725,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -83
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038384231,
+            "position": {
+                "latitude": 49.6710542,
+                "longitude": 18.3327218,
+                "accuracy": 3.8,
+                "altitude": 339.5,
+                "heading": 81.00081634521484,
+                "speed": 15.531,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -82
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038389230,
+            "position": {
+                "latitude": 49.6711645,
+                "longitude": 18.3337917,
+                "accuracy": 3.8,
+                "altitude": 338.9,
+                "heading": 79.9976806640625,
+                "speed": 15.966,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 231444938,
+                    "primaryScramblingCode": 337,
+                    "serving": 1,
+                    "signalStrength": -79
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038394230,
+            "position": {
+                "latitude": 49.6712893,
+                "longitude": 18.334929,
+                "accuracy": 3.8,
+                "altitude": 338.7,
+                "heading": 79.99671173095703,
+                "speed": 17.034,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605834,
+                    "primaryScramblingCode": 2,
+                    "serving": 1,
+                    "signalStrength": -80
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038399230,
+            "position": {
+                "latitude": 49.6714242,
+                "longitude": 18.3361056,
+                "accuracy": 3.8,
+                "altitude": 339.3,
+                "heading": 80.00060272216797,
+                "speed": 17.011,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605834,
+                    "primaryScramblingCode": 2,
+                    "serving": 1,
+                    "signalStrength": -83
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038404229,
+            "position": {
+                "latitude": 49.6715548,
+                "longitude": 18.3372388,
+                "accuracy": 3.8,
+                "altitude": 340.9,
+                "heading": 79.00275421142578,
+                "speed": 16.224,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605834,
+                    "primaryScramblingCode": 2,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038409230,
+            "position": {
+                "latitude": 49.671733,
+                "longitude": 18.3382769,
+                "accuracy": 3.8,
+                "altitude": 341.9,
+                "heading": 70.0071029663086,
+                "speed": 15.222,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605834,
+                    "primaryScramblingCode": 2,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038414231,
+            "position": {
+                "latitude": 49.6720315,
+                "longitude": 18.3392369,
+                "accuracy": 3.8,
+                "altitude": 342,
+                "heading": 55.034786224365234,
+                "speed": 15.183,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605834,
+                    "primaryScramblingCode": 2,
+                    "serving": 1,
+                    "signalStrength": -85
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038419231,
+            "position": {
+                "latitude": 49.6724406,
+                "longitude": 18.3399705,
+                "accuracy": 3.8,
+                "altitude": 341.6,
+                "heading": 43.016292572021484,
+                "speed": 12.946,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605834,
+                    "primaryScramblingCode": 2,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038424230,
+            "position": {
+                "latitude": 49.6727927,
+                "longitude": 18.3404408,
+                "accuracy": 3.8,
+                "altitude": 341.3,
+                "heading": 38.9914665222168,
+                "speed": 8.907,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -87
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038429231,
+            "position": {
+                "latitude": 49.6729895,
+                "longitude": 18.3407036,
+                "accuracy": 3.8,
+                "altitude": 340.5,
+                "heading": 38.983367919921875,
+                "speed": 3.916,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038434230,
+            "position": {
+                "latitude": 49.6730959,
+                "longitude": 18.3408524,
+                "accuracy": 3.8,
+                "altitude": 340.9,
+                "heading": 40.01776885986328,
+                "speed": 3.723,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -79
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038439229,
+            "position": {
+                "latitude": 49.6733368,
+                "longitude": 18.3411611,
+                "accuracy": 3.8,
+                "altitude": 340.7,
+                "heading": 40.00038528442383,
+                "speed": 7.62,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -76
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038444229,
+            "position": {
+                "latitude": 49.6736396,
+                "longitude": 18.3415603,
+                "accuracy": 3.8,
+                "altitude": 340.6,
+                "heading": 40.002010345458984,
+                "speed": 9.888,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -78
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038449229,
+            "position": {
+                "latitude": 49.6740152,
+                "longitude": 18.342037,
+                "accuracy": 3.8,
+                "altitude": 340.2,
+                "heading": 39.9948844909668,
+                "speed": 11.616,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038454229,
+            "position": {
+                "latitude": 49.6744356,
+                "longitude": 18.3425738,
+                "accuracy": 3.8,
+                "altitude": 339.5,
+                "heading": 40.00034713745117,
+                "speed": 12.32,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038459229,
+            "position": {
+                "latitude": 49.6748547,
+                "longitude": 18.3431166,
+                "accuracy": 3.8,
+                "altitude": 339.2,
+                "heading": 38.00780487060547,
+                "speed": 12.469,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233605835,
+                    "primaryScramblingCode": 10,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038464229,
+            "position": {
+                "latitude": 49.6753226,
+                "longitude": 18.3436521,
+                "accuracy": 3.8,
+                "altitude": 338.2,
+                "heading": 33.014278411865234,
+                "speed": 13.417,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232057034,
+                    "primaryScramblingCode": 135,
+                    "serving": 1,
+                    "signalStrength": -85
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038469229,
+            "position": {
+                "latitude": 49.6758709,
+                "longitude": 18.3441271,
+                "accuracy": 3.8,
+                "altitude": 335.9,
+                "heading": 23.30890655517578,
+                "speed": 14.096,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232057034,
+                    "primaryScramblingCode": 135,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038474229,
+            "position": {
+                "latitude": 49.6764903,
+                "longitude": 18.3445039,
+                "accuracy": 3.8,
+                "altitude": 333.4,
+                "heading": 20.182193756103516,
+                "speed": 14.749,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232057034,
+                    "primaryScramblingCode": 135,
+                    "serving": 1,
+                    "signalStrength": -88
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038479229,
+            "position": {
+                "latitude": 49.6771195,
+                "longitude": 18.3448892,
+                "accuracy": 3.8,
+                "altitude": 331.7,
+                "heading": 21.00059700012207,
+                "speed": 14.782,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232057034,
+                    "primaryScramblingCode": 135,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038484230,
+            "position": {
+                "latitude": 49.6777394,
+                "longitude": 18.3452703,
+                "accuracy": 3.8,
+                "altitude": 332.8,
+                "heading": 18.600173950195312,
+                "speed": 15.32,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232057034,
+                    "primaryScramblingCode": 135,
+                    "serving": 1,
+                    "signalStrength": -78
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038489228,
+            "position": {
+                "latitude": 49.6784717,
+                "longitude": 18.3457462,
+                "accuracy": 3.8,
+                "altitude": 333.1,
+                "heading": 30.8353214263916,
+                "speed": 18.02,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232057034,
+                    "primaryScramblingCode": 135,
+                    "serving": 1,
+                    "signalStrength": -75
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038494228,
+            "position": {
+                "latitude": 49.6790804,
+                "longitude": 18.3465699,
+                "accuracy": 3.8,
+                "altitude": 335,
+                "heading": 48.90923309326172,
+                "speed": 18.217,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334218,
+                    "primaryScramblingCode": 330,
+                    "serving": 1,
+                    "signalStrength": -81
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038499228,
+            "position": {
+                "latitude": 49.6796387,
+                "longitude": 18.3475476,
+                "accuracy": 3.8,
+                "altitude": 336.5,
+                "heading": 49.01140594482422,
+                "speed": 19.099,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334218,
+                    "primaryScramblingCode": 330,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038504228,
+            "position": {
+                "latitude": 49.6801983,
+                "longitude": 18.3485339,
+                "accuracy": 3.8,
+                "altitude": 339,
+                "heading": 47.99969482421875,
+                "speed": 19.029,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334218,
+                    "primaryScramblingCode": 330,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038509228,
+            "position": {
+                "latitude": 49.6807816,
+                "longitude": 18.3495328,
+                "accuracy": 3.8,
+                "altitude": 343,
+                "heading": 47.999664306640625,
+                "speed": 19.759,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334218,
+                    "primaryScramblingCode": 330,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038514228,
+            "position": {
+                "latitude": 49.6813602,
+                "longitude": 18.3505828,
+                "accuracy": 3.8,
+                "altitude": 344.2,
+                "heading": 49.993263244628906,
+                "speed": 19.36,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334217,
+                    "primaryScramblingCode": 190,
+                    "serving": 1,
+                    "signalStrength": -88
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038519228,
+            "position": {
+                "latitude": 49.681903,
+                "longitude": 18.3516563,
+                "accuracy": 3.8,
+                "altitude": 344.6,
+                "heading": 55.98595428466797,
+                "speed": 20.027,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334217,
+                    "primaryScramblingCode": 190,
+                    "serving": 1,
+                    "signalStrength": -79
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038524227,
+            "position": {
+                "latitude": 49.6823825,
+                "longitude": 18.3528892,
+                "accuracy": 3.8,
+                "altitude": 343.9,
+                "heading": 59.99355697631836,
+                "speed": 20.998,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233334217,
+                    "primaryScramblingCode": 190,
+                    "serving": 1,
+                    "signalStrength": -77
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038534228,
+            "position": {
+                "latitude": 49.6831501,
+                "longitude": 18.3554766,
+                "accuracy": 3.8,
+                "altitude": 345.4,
+                "heading": 70.00120544433594,
+                "speed": 19.874,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234578633,
+                    "primaryScramblingCode": 457,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038539227,
+            "position": {
+                "latitude": 49.6834046,
+                "longitude": 18.3567457,
+                "accuracy": 3.8,
+                "altitude": 345.2,
+                "heading": 74.9938735961914,
+                "speed": 19.353,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234578633,
+                    "primaryScramblingCode": 457,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038544228,
+            "position": {
+                "latitude": 49.683616,
+                "longitude": 18.3581404,
+                "accuracy": 3.8,
+                "altitude": 347.2,
+                "heading": 79.99628448486328,
+                "speed": 21.683,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234578633,
+                    "primaryScramblingCode": 457,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038549228,
+            "position": {
+                "latitude": 49.6837462,
+                "longitude": 18.3596843,
+                "accuracy": 3.8,
+                "altitude": 349.2,
+                "heading": 84.99923706054688,
+                "speed": 22.748,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234578633,
+                    "primaryScramblingCode": 457,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038554227,
+            "position": {
+                "latitude": 49.6837651,
+                "longitude": 18.3612542,
+                "accuracy": 3.8,
+                "altitude": 350.5,
+                "heading": 90.99974822998047,
+                "speed": 22.472,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695179,
+                    "primaryScramblingCode": 501,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038559227,
+            "position": {
+                "latitude": 49.6836806,
+                "longitude": 18.3627721,
+                "accuracy": 3.8,
+                "altitude": 352,
+                "heading": 95.99967193603516,
+                "speed": 21.95,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695179,
+                    "primaryScramblingCode": 501,
+                    "serving": 1,
+                    "signalStrength": -88
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038564227,
+            "position": {
+                "latitude": 49.6835387,
+                "longitude": 18.3642836,
+                "accuracy": 3.8,
+                "altitude": 353.3,
+                "heading": 97.00013732910156,
+                "speed": 22.08,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695179,
+                    "primaryScramblingCode": 501,
+                    "serving": 1,
+                    "signalStrength": -82
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038569227,
+            "position": {
+                "latitude": 49.683411,
+                "longitude": 18.3658089,
+                "accuracy": 3.8,
+                "altitude": 353.9,
+                "heading": 95.9999008178711,
+                "speed": 22.14,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695179,
+                    "primaryScramblingCode": 501,
+                    "serving": 1,
+                    "signalStrength": -79
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038574227,
+            "position": {
+                "latitude": 49.6832794,
+                "longitude": 18.367319,
+                "accuracy": 3.8,
+                "altitude": 355.4,
+                "heading": 96.9997787475586,
+                "speed": 21.931,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -82
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038579227,
+            "position": {
+                "latitude": 49.6831521,
+                "longitude": 18.368874,
+                "accuracy": 3.8,
+                "altitude": 356.9,
+                "heading": 97.00114440917969,
+                "speed": 23.156,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -79
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038584227,
+            "position": {
+                "latitude": 49.6830139,
+                "longitude": 18.3705112,
+                "accuracy": 3.8,
+                "altitude": 357.3,
+                "heading": 97.00054931640625,
+                "speed": 24.268,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -81
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038589227,
+            "position": {
+                "latitude": 49.6828787,
+                "longitude": 18.372194,
+                "accuracy": 3.8,
+                "altitude": 357.7,
+                "heading": 97.00015258789062,
+                "speed": 24.399,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -83
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038594226,
+            "position": {
+                "latitude": 49.6827556,
+                "longitude": 18.3738697,
+                "accuracy": 3.8,
+                "altitude": 358.3,
+                "heading": 95.99949645996094,
+                "speed": 24.082,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -89
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038599226,
+            "position": {
+                "latitude": 49.6826416,
+                "longitude": 18.3754664,
+                "accuracy": 3.8,
+                "altitude": 358.6,
+                "heading": 95.99940490722656,
+                "speed": 22.742,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -104
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038604226,
+            "position": {
+                "latitude": 49.6825411,
+                "longitude": 18.3770608,
+                "accuracy": 3.8,
+                "altitude": 359.3,
+                "heading": 95.0003662109375,
+                "speed": 23.368,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -109
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038609226,
+            "position": {
+                "latitude": 49.6824505,
+                "longitude": 18.3787093,
+                "accuracy": 3.8,
+                "altitude": 361.4,
+                "heading": 94.00032806396484,
+                "speed": 24.108,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -109
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038614226,
+            "position": {
+                "latitude": 49.6823675,
+                "longitude": 18.3804017,
+                "accuracy": 3.8,
+                "altitude": 362.1,
+                "heading": 93.00044250488281,
+                "speed": 24.698,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038619225,
+            "position": {
+                "latitude": 49.6822906,
+                "longitude": 18.3821154,
+                "accuracy": 3.8,
+                "altitude": 362.9,
+                "heading": 93.00008392333984,
+                "speed": 25.019,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695178,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038624226,
+            "position": {
+                "latitude": 49.6822172,
+                "longitude": 18.3838482,
+                "accuracy": 3.8,
+                "altitude": 364,
+                "heading": 92.99996948242188,
+                "speed": 25.17,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695158,
+                    "primaryScramblingCode": 19,
+                    "serving": 1,
+                    "signalStrength": -105
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038629226,
+            "position": {
+                "latitude": 49.6821448,
+                "longitude": 18.3855953,
+                "accuracy": 3.8,
+                "altitude": 364.4,
+                "heading": 93.00007629394531,
+                "speed": 25.399,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233695158,
+                    "primaryScramblingCode": 19,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038634226,
+            "position": {
+                "latitude": 49.6820709,
+                "longitude": 18.3873609,
+                "accuracy": 3.8,
+                "altitude": 365.1,
+                "heading": 93.00006103515625,
+                "speed": 25.62,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232683959,
+                    "primaryScramblingCode": 422,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038639226,
+            "position": {
+                "latitude": 49.6819807,
+                "longitude": 18.3891402,
+                "accuracy": 3.8,
+                "altitude": 365.7,
+                "heading": 95.00007629394531,
+                "speed": 25.75,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232683959,
+                    "primaryScramblingCode": 422,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038644226,
+            "position": {
+                "latitude": 49.6818666,
+                "longitude": 18.3909287,
+                "accuracy": 3.8,
+                "altitude": 366.2,
+                "heading": 96.00006866455078,
+                "speed": 25.86,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232683959,
+                    "primaryScramblingCode": 422,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038649226,
+            "position": {
+                "latitude": 49.6817082,
+                "longitude": 18.3926977,
+                "accuracy": 3.8,
+                "altitude": 366.7,
+                "heading": 97.99996948242188,
+                "speed": 25.84,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232683959,
+                    "primaryScramblingCode": 422,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038654226,
+            "position": {
+                "latitude": 49.6815059,
+                "longitude": 18.3944568,
+                "accuracy": 3.8,
+                "altitude": 367.8,
+                "heading": 100.998779296875,
+                "speed": 25.791,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038659225,
+            "position": {
+                "latitude": 49.6812523,
+                "longitude": 18.3962033,
+                "accuracy": 3.8,
+                "altitude": 368.6,
+                "heading": 102.99964141845703,
+                "speed": 25.621,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -105
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038664225,
+            "position": {
+                "latitude": 49.6809463,
+                "longitude": 18.3979091,
+                "accuracy": 3.8,
+                "altitude": 369.8,
+                "heading": 106.99677276611328,
+                "speed": 25.343,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -102
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038674225,
+            "position": {
+                "latitude": 49.6799013,
+                "longitude": 18.4007111,
+                "accuracy": 3.8,
+                "altitude": 380.1,
+                "heading": 131.00717163085938,
+                "speed": 22.57,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038679225,
+            "position": {
+                "latitude": 49.6793082,
+                "longitude": 18.401877,
+                "accuracy": 3.8,
+                "altitude": 380,
+                "heading": 122.02400207519531,
+                "speed": 20.788,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038684225,
+            "position": {
+                "latitude": 49.6789543,
+                "longitude": 18.4031739,
+                "accuracy": 3.8,
+                "altitude": 376.9,
+                "heading": 97.00521850585938,
+                "speed": 20.178,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -82
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038689225,
+            "position": {
+                "latitude": 49.678903,
+                "longitude": 18.4045511,
+                "accuracy": 3.8,
+                "altitude": 375.6,
+                "heading": 86.99769592285156,
+                "speed": 19.578,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -80
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038694226,
+            "position": {
+                "latitude": 49.6787718,
+                "longitude": 18.4059689,
+                "accuracy": 3.8,
+                "altitude": 376.4,
+                "heading": 106.99089050292969,
+                "speed": 21.54,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -85
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038699226,
+            "position": {
+                "latitude": 49.678335,
+                "longitude": 18.4073744,
+                "accuracy": 3.8,
+                "altitude": 377.9,
+                "heading": 120.00499725341797,
+                "speed": 23.513,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038704225,
+            "position": {
+                "latitude": 49.6778574,
+                "longitude": 18.4088786,
+                "accuracy": 3.8,
+                "altitude": 379.8,
+                "heading": 115.99774932861328,
+                "speed": 23.913,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038709225,
+            "position": {
+                "latitude": 49.6773856,
+                "longitude": 18.4103484,
+                "accuracy": 3.8,
+                "altitude": 381,
+                "heading": 116.00100708007812,
+                "speed": 23.569,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -89
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038714225,
+            "position": {
+                "latitude": 49.6769284,
+                "longitude": 18.4118963,
+                "accuracy": 3.8,
+                "altitude": 381.8,
+                "heading": 112.00703430175781,
+                "speed": 25.324,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038719224,
+            "position": {
+                "latitude": 49.6765318,
+                "longitude": 18.4134978,
+                "accuracy": 3.8,
+                "altitude": 382.6,
+                "heading": 108.99764251708984,
+                "speed": 23.863,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686519,
+                    "primaryScramblingCode": 131,
+                    "serving": 1,
+                    "signalStrength": -83
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038724225,
+            "position": {
+                "latitude": 49.6762222,
+                "longitude": 18.4150406,
+                "accuracy": 3.8,
+                "altitude": 384.1,
+                "heading": 104.9999008178711,
+                "speed": 23.3,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -84
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038729224,
+            "position": {
+                "latitude": 49.6759868,
+                "longitude": 18.4166235,
+                "accuracy": 3.8,
+                "altitude": 385.2,
+                "heading": 101.00227355957031,
+                "speed": 24.015,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -82
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038734224,
+            "position": {
+                "latitude": 49.6758242,
+                "longitude": 18.418368,
+                "accuracy": 3.8,
+                "altitude": 386.3,
+                "heading": 97.00135040283203,
+                "speed": 26.305,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -80
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038744224,
+            "position": {
+                "latitude": 49.675409,
+                "longitude": 18.421947,
+                "accuracy": 3.8,
+                "altitude": 388.6,
+                "heading": 102.99893951416016,
+                "speed": 26.43,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -73
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038749225,
+            "position": {
+                "latitude": 49.6750778,
+                "longitude": 18.4236925,
+                "accuracy": 3.8,
+                "altitude": 390.3,
+                "heading": 108.99610137939453,
+                "speed": 26.003,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -76
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038754224,
+            "position": {
+                "latitude": 49.674667,
+                "longitude": 18.4253583,
+                "accuracy": 3.8,
+                "altitude": 392.5,
+                "heading": 112.99639892578125,
+                "speed": 25.711,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -88
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038759224,
+            "position": {
+                "latitude": 49.6741766,
+                "longitude": 18.4269672,
+                "accuracy": 3.8,
+                "altitude": 394.6,
+                "heading": 115.00010681152344,
+                "speed": 25.78,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 232686517,
+                    "primaryScramblingCode": 333,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038764224,
+            "position": {
+                "latitude": 49.6736774,
+                "longitude": 18.4285847,
+                "accuracy": 3.8,
+                "altitude": 397.2,
+                "heading": 115.00006866455078,
+                "speed": 25.79,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233759157,
+                    "primaryScramblingCode": 159,
+                    "serving": 1,
+                    "signalStrength": -88
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038769223,
+            "position": {
+                "latitude": 49.6731975,
+                "longitude": 18.43022,
+                "accuracy": 3.8,
+                "altitude": 399.6,
+                "heading": 112.9985122680664,
+                "speed": 25.592,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233759157,
+                    "primaryScramblingCode": 159,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038774223,
+            "position": {
+                "latitude": 49.6727511,
+                "longitude": 18.4318626,
+                "accuracy": 3.8,
+                "altitude": 401.3,
+                "heading": 111.00328826904297,
+                "speed": 25.749,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233759157,
+                    "primaryScramblingCode": 159,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038779223,
+            "position": {
+                "latitude": 49.6723345,
+                "longitude": 18.4335332,
+                "accuracy": 3.8,
+                "altitude": 402.2,
+                "heading": 110.0009536743164,
+                "speed": 25.889,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233759157,
+                    "primaryScramblingCode": 159,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038784223,
+            "position": {
+                "latitude": 49.6719492,
+                "longitude": 18.4352354,
+                "accuracy": 3.8,
+                "altitude": 402.7,
+                "heading": 107.00312805175781,
+                "speed": 26.167,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 233759157,
+                    "primaryScramblingCode": 159,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038789224,
+            "position": {
+                "latitude": 49.671606,
+                "longitude": 18.4369863,
+                "accuracy": 3.8,
+                "altitude": 402.2,
+                "heading": 106.00077819824219,
+                "speed": 26.569,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234330040,
+                    "primaryScramblingCode": 292,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038794223,
+            "position": {
+                "latitude": 49.6712591,
+                "longitude": 18.4387581,
+                "accuracy": 3.8,
+                "altitude": 400.4,
+                "heading": 106.99740600585938,
+                "speed": 26.702,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234330040,
+                    "primaryScramblingCode": 292,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038799223,
+            "position": {
+                "latitude": 49.67092,
+                "longitude": 18.440496,
+                "accuracy": 3.8,
+                "altitude": 401.2,
+                "heading": 105.99848937988281,
+                "speed": 25.963,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -101
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038804223,
+            "position": {
+                "latitude": 49.6705908,
+                "longitude": 18.4421765,
+                "accuracy": 3.8,
+                "altitude": 403,
+                "heading": 105.99917602539062,
+                "speed": 25.091,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -102
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038809223,
+            "position": {
+                "latitude": 49.6702627,
+                "longitude": 18.4438331,
+                "accuracy": 3.8,
+                "altitude": 405.5,
+                "heading": 107.0001220703125,
+                "speed": 25,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -101
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038814223,
+            "position": {
+                "latitude": 49.6699331,
+                "longitude": 18.4455102,
+                "accuracy": 3.8,
+                "altitude": 405.4,
+                "heading": 106.000732421875,
+                "speed": 25.299,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -98
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038819222,
+            "position": {
+                "latitude": 49.6696023,
+                "longitude": 18.4472252,
+                "accuracy": 3.8,
+                "altitude": 404.1,
+                "heading": 106.00104522705078,
+                "speed": 26.028,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234330040,
+                    "primaryScramblingCode": 292,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038824222,
+            "position": {
+                "latitude": 49.6692671,
+                "longitude": 18.4489679,
+                "accuracy": 3.8,
+                "altitude": 403.3,
+                "heading": 106.0000228881836,
+                "speed": 26.4,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038829222,
+            "position": {
+                "latitude": 49.6689299,
+                "longitude": 18.4507034,
+                "accuracy": 3.8,
+                "altitude": 404.1,
+                "heading": 105.99951934814453,
+                "speed": 25.911,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234330040,
+                    "primaryScramblingCode": 292,
+                    "serving": 1,
+                    "signalStrength": -104
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038834222,
+            "position": {
+                "latitude": 49.6685997,
+                "longitude": 18.4524258,
+                "accuracy": 3.8,
+                "altitude": 405.2,
+                "heading": 106.00106048583984,
+                "speed": 26.258,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038839222,
+            "position": {
+                "latitude": 49.6682571,
+                "longitude": 18.4541791,
+                "accuracy": 3.8,
+                "altitude": 405.7,
+                "heading": 106.99662780761719,
+                "speed": 26.353,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -101
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038844222,
+            "position": {
+                "latitude": 49.6679205,
+                "longitude": 18.4559135,
+                "accuracy": 3.8,
+                "altitude": 405.2,
+                "heading": 106.99703216552734,
+                "speed": 25.932,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "lte",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038849222,
+            "position": {
+                "latitude": 49.667594,
+                "longitude": 18.4576221,
+                "accuracy": 3.8,
+                "altitude": 403.2,
+                "heading": 104.00173950195312,
+                "speed": 25.769,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -103
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038854222,
+            "position": {
+                "latitude": 49.6673565,
+                "longitude": 18.4593546,
+                "accuracy": 3.8,
+                "altitude": 401.8,
+                "heading": 98.00057983398438,
+                "speed": 25.43,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -102
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038859222,
+            "position": {
+                "latitude": 49.6672621,
+                "longitude": 18.4610858,
+                "accuracy": 3.8,
+                "altitude": 400.9,
+                "heading": 91.0003433227539,
+                "speed": 25.11,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038864222,
+            "position": {
+                "latitude": 49.6673049,
+                "longitude": 18.4628186,
+                "accuracy": 3.8,
+                "altitude": 399.1,
+                "heading": 84.0009994506836,
+                "speed": 24.812,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038869222,
+            "position": {
+                "latitude": 49.6674857,
+                "longitude": 18.4644968,
+                "accuracy": 3.8,
+                "altitude": 398,
+                "heading": 77.00469970703125,
+                "speed": 24.045,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038874222,
+            "position": {
+                "latitude": 49.6677889,
+                "longitude": 18.4661048,
+                "accuracy": 3.8,
+                "altitude": 398.3,
+                "heading": 69.00123596191406,
+                "speed": 24.718,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038879221,
+            "position": {
+                "latitude": 49.6682349,
+                "longitude": 18.4677118,
+                "accuracy": 3.8,
+                "altitude": 399.7,
+                "heading": 63.004764556884766,
+                "speed": 25.291,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1714,
+                    "cellId": 234327477,
+                    "primaryScramblingCode": 222,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038884221,
+            "position": {
+                "latitude": 49.6688,
+                "longitude": 18.4692418,
+                "accuracy": 3.8,
+                "altitude": 400.8,
+                "heading": 58.00579833984375,
+                "speed": 25.501,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038889221,
+            "position": {
+                "latitude": 49.6693989,
+                "longitude": 18.4707562,
+                "accuracy": 3.8,
+                "altitude": 402.2,
+                "heading": 58.00008773803711,
+                "speed": 25.48,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038899221,
+            "position": {
+                "latitude": 49.6705851,
+                "longitude": 18.4737645,
+                "accuracy": 3.8,
+                "altitude": 402.7,
+                "heading": 58.00065231323242,
+                "speed": 24.981,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -84
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038904221,
+            "position": {
+                "latitude": 49.6711622,
+                "longitude": 18.4752288,
+                "accuracy": 3.8,
+                "altitude": 402.4,
+                "heading": 57.999908447265625,
+                "speed": 24.76,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038909221,
+            "position": {
+                "latitude": 49.6717502,
+                "longitude": 18.4767187,
+                "accuracy": 3.8,
+                "altitude": 401.7,
+                "heading": 57.99885177612305,
+                "speed": 25.538,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -87
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038914221,
+            "position": {
+                "latitude": 49.6723606,
+                "longitude": 18.4782797,
+                "accuracy": 3.8,
+                "altitude": 401,
+                "heading": 57.9990234375,
+                "speed": 26.549,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -91
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038919222,
+            "position": {
+                "latitude": 49.6729856,
+                "longitude": 18.4798717,
+                "accuracy": 3.8,
+                "altitude": 400.5,
+                "heading": 58.000240325927734,
+                "speed": 27.06,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038924221,
+            "position": {
+                "latitude": 49.6736111,
+                "longitude": 18.4814555,
+                "accuracy": 3.8,
+                "altitude": 400.2,
+                "heading": 58.00161361694336,
+                "speed": 26.372,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038929221,
+            "position": {
+                "latitude": 49.6742133,
+                "longitude": 18.482987,
+                "accuracy": 3.8,
+                "altitude": 401.3,
+                "heading": 58.00075149536133,
+                "speed": 25.571,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038934221,
+            "position": {
+                "latitude": 49.6748072,
+                "longitude": 18.4844875,
+                "accuracy": 3.8,
+                "altitude": 403.2,
+                "heading": 57.999961853027344,
+                "speed": 25.29,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038939219,
+            "position": {
+                "latitude": 49.6754027,
+                "longitude": 18.4859931,
+                "accuracy": 3.8,
+                "altitude": 404.7,
+                "heading": 58.993324279785156,
+                "speed": 25.767,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038944220,
+            "position": {
+                "latitude": 49.6760067,
+                "longitude": 18.4875441,
+                "accuracy": 3.8,
+                "altitude": 405.8,
+                "heading": 58.999488830566406,
+                "speed": 26.249,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038949220,
+            "position": {
+                "latitude": 49.6766086,
+                "longitude": 18.4891279,
+                "accuracy": 3.8,
+                "altitude": 407.3,
+                "heading": 59.993831634521484,
+                "speed": 26.668,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038954221,
+            "position": {
+                "latitude": 49.6772082,
+                "longitude": 18.4907457,
+                "accuracy": 3.8,
+                "altitude": 408.2,
+                "heading": 60.000282287597656,
+                "speed": 26.9,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038959220,
+            "position": {
+                "latitude": 49.6777914,
+                "longitude": 18.4923442,
+                "accuracy": 3.8,
+                "altitude": 407.8,
+                "heading": 61.00117492675781,
+                "speed": 26.072,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -94
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038964220,
+            "position": {
+                "latitude": 49.678362,
+                "longitude": 18.4938984,
+                "accuracy": 3.8,
+                "altitude": 407.3,
+                "heading": 60.00005340576172,
+                "speed": 25.74,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038969220,
+            "position": {
+                "latitude": 49.6789263,
+                "longitude": 18.4954638,
+                "accuracy": 3.8,
+                "altitude": 406.4,
+                "heading": 60.9944953918457,
+                "speed": 25.798,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -93
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038974221,
+            "position": {
+                "latitude": 49.6794985,
+                "longitude": 18.4970449,
+                "accuracy": 3.8,
+                "altitude": 405.5,
+                "heading": 60.99467468261719,
+                "speed": 26.219,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232755638,
+                    "primaryScramblingCode": 91,
+                    "serving": 1,
+                    "signalStrength": -96
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038979220,
+            "position": {
+                "latitude": 49.680071,
+                "longitude": 18.4986279,
+                "accuracy": 3.8,
+                "altitude": 404.7,
+                "heading": 59.999759674072266,
+                "speed": 26.19,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038984220,
+            "position": {
+                "latitude": 49.6806467,
+                "longitude": 18.5002038,
+                "accuracy": 3.8,
+                "altitude": 405.1,
+                "heading": 60.000450134277344,
+                "speed": 26.091,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -95
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038989220,
+            "position": {
+                "latitude": 49.6812051,
+                "longitude": 18.5017615,
+                "accuracy": 3.8,
+                "altitude": 406.8,
+                "heading": 60.006465911865234,
+                "speed": 25.353,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -97
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038994219,
+            "position": {
+                "latitude": 49.681774,
+                "longitude": 18.5033032,
+                "accuracy": 3.8,
+                "altitude": 408.8,
+                "heading": 59.99825668334961,
+                "speed": 25.968,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870839,
+                    "primaryScramblingCode": 320,
+                    "serving": 1,
+                    "signalStrength": -99
+                }
+            ]
+        },
+        {
+            "timestamp": 1728038999219,
+            "position": {
+                "latitude": 49.6823565,
+                "longitude": 18.5048983,
+                "accuracy": 3.8,
+                "altitude": 410.7,
+                "heading": 59.99989318847656,
+                "speed": 26.52,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -100
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039004219,
+            "position": {
+                "latitude": 49.6829348,
+                "longitude": 18.5065115,
+                "accuracy": 3.8,
+                "altitude": 411.4,
+                "heading": 60.004966735839844,
+                "speed": 26.771,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -92
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039009219,
+            "position": {
+                "latitude": 49.683544,
+                "longitude": 18.5081377,
+                "accuracy": 3.8,
+                "altitude": 411.3,
+                "heading": 58.9996223449707,
+                "speed": 27.169,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039014219,
+            "position": {
+                "latitude": 49.6841718,
+                "longitude": 18.5097474,
+                "accuracy": 3.8,
+                "altitude": 410.7,
+                "heading": 57.006370544433594,
+                "speed": 27.101,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -81
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039019219,
+            "position": {
+                "latitude": 49.6848413,
+                "longitude": 18.5113125,
+                "accuracy": 3.8,
+                "altitude": 410.4,
+                "heading": 56.000160217285156,
+                "speed": 26.92,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -80
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039024219,
+            "position": {
+                "latitude": 49.6855203,
+                "longitude": 18.5128397,
+                "accuracy": 3.8,
+                "altitude": 410.1,
+                "heading": 55.000064849853516,
+                "speed": 26.71,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -79
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039029220,
+            "position": {
+                "latitude": 49.6862062,
+                "longitude": 18.5143513,
+                "accuracy": 3.8,
+                "altitude": 410,
+                "heading": 54.993839263916016,
+                "speed": 26.47,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -80
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039034219,
+            "position": {
+                "latitude": 49.6868733,
+                "longitude": 18.5158439,
+                "accuracy": 3.8,
+                "altitude": 410.2,
+                "heading": 55.00082015991211,
+                "speed": 25.951,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -81
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039039218,
+            "position": {
+                "latitude": 49.6875248,
+                "longitude": 18.5173016,
+                "accuracy": 3.8,
+                "altitude": 409.4,
+                "heading": 54.99991989135742,
+                "speed": 25.57,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -81
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039044220,
+            "position": {
+                "latitude": 49.6881814,
+                "longitude": 18.5187633,
+                "accuracy": 3.8,
+                "altitude": 408,
+                "heading": 55.00114059448242,
+                "speed": 25.582,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -82
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039049219,
+            "position": {
+                "latitude": 49.6888368,
+                "longitude": 18.5202017,
+                "accuracy": 3.8,
+                "altitude": 407.1,
+                "heading": 54.004432678222656,
+                "speed": 24.787,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -84
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039054218,
+            "position": {
+                "latitude": 49.6895055,
+                "longitude": 18.5216231,
+                "accuracy": 3.8,
+                "altitude": 404.9,
+                "heading": 53.0067024230957,
+                "speed": 25.221,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039059218,
+            "position": {
+                "latitude": 49.6902072,
+                "longitude": 18.5230126,
+                "accuracy": 3.8,
+                "altitude": 402.1,
+                "heading": 50.99991226196289,
+                "speed": 25.5,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039064218,
+            "position": {
+                "latitude": 49.6909685,
+                "longitude": 18.5243474,
+                "accuracy": 3.8,
+                "altitude": 399.8,
+                "heading": 46.00004577636719,
+                "speed": 25.719,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -86
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039069218,
+            "position": {
+                "latitude": 49.6917929,
+                "longitude": 18.525613,
+                "accuracy": 3.8,
+                "altitude": 397.8,
+                "heading": 49.925926208496094,
+                "speed": 25.893,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -87
+                }
+            ]
+        },
+        {
+            "timestamp": 1728039074217,
+            "position": {
+                "latitude": 49.6926641,
+                "longitude": 18.5267968,
+                "accuracy": 3.8,
+                "altitude": 395.9,
+                "heading": 38.99999237060547,
+                "speed": 25.71,
+                "source": "gps"
+            },
+            "cellTowers": [
+                {
+                    "radioType": "5G (NSA)",
+                    "mobileCountryCode": 230,
+                    "mobileNetworkCode": 2,
+                    "locationAreaCode": 1725,
+                    "cellId": 232870838,
+                    "primaryScramblingCode": 279,
+                    "serving": 1,
+                    "signalStrength": -90
+                }
+            ]
+        }
+    ]
+}

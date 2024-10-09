@@ -1,0 +1,39 @@
+.map-container {
+    height:300px;
+    margin-top:20px;
+    
+        #map { height: 80vh; width: 100%}
+        #informace {
+            background-color: rgb(242, 240, 238);
+            padding: 10px 5px 5px 10px;
+        }
+}
+.hlavicka {
+
+    background-color: cornflowerblue;
+    padding: 10px 10px 15px;
+}
+
+
+/* Stylování aktivního tlačítka */
+button.active {
+    background-color: #007bff;  /* Modré pozadí pro aktivní tlačítko */
+    color: white;  /* Bílý text pro aktivní tlačítko */
+  }
+  
+  /* Základní styl pro tlačítka */
+  button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 1px solid #007bff;
+    background-color: white;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  /* Stylování divu s třídou bc */
+  .infoText {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+  }

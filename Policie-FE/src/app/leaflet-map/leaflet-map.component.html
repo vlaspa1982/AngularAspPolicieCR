@@ -1,0 +1,33 @@
+<div class="container-fluid">
+    <div class="row hlavicka">
+        <div class="col-6">
+            <h6>Nahrát data o BTS</h6>
+            <input type="file" (change)="onJsonFileSelected($event)" />
+
+        </div>
+        <div class="col-6">
+            <h6>Nahrát data o trase</h6>
+            <input type="file" (change)="onTxtFileSelected($event)" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-8 map-container">
+            <div id="map">
+            </div>
+        </div>
+        <div class="col-4 map-container">
+            <div>
+                <!-- Tlačítka pro volbu -->
+                <button (click)="setActiveButton('total')" [ngClass]="{'active': activeButton === 'total'}">Total</button>
+                <button (click)="setActiveButton('gps')" [ngClass]="{'active': activeButton === 'gps'}">GPS</button>
+                <button (click)="saveData()">Save Data</button>
+            </div>
+            <div class="infoText">
+                <!-- Zobrazení textu v závislosti na aktivním tlačítku -->
+                <p *ngIf="activeButton === 'total'" [innerHTML]="totalInformace">Informace</p>
+                <p *ngIf="activeButton === 'gps'" [innerHTML]="gpsInformace">GPS Information</p>
+              </div>
+        </div>
+    </div>
+
+    </div>
