@@ -1,0 +1,3 @@
+Zobrazení polohových dat a informací o BTS na mapě.
+Použítí Leaflet knihovny.
+Po kliknutí na marker se zobrazí informace o poloze a také informace o nejbližší BTS
